@@ -15,8 +15,8 @@ Constant iprovement of front-end development skills for getting a job as a web-d
 * *HTML*
 * *CSS*
 * *JavaScript*
-* *Git*
 * *Adobe Photoshop*
+* *Git*
 
 
 ## My front-end developer experience
