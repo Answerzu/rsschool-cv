@@ -1,0 +1,54 @@
+body {
+	width: 1000px;
+    margin: 0 auto;
+	font-family: "PT Sans", "Arial", sans-serif;
+	font-size: 14px;
+	line-height: 21px;
+	font-weight: 400;
+	color: #000;
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: none;
+} 
+
+a:focus,
+a:hover {
+	color: #fff;
+	background-color: #1692de;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+.visuallyHidden {
+  	position: absolute;
+   	width: 1px;
+   	height: 1px;
+  	margin: -1px;
+   	padding: 0;
+  	overflow: hidden;
+   	border: 0;
+   	clip: rect(0 0 0 0);
+}
+
+.header {
+	display: flex;
+}
+
+.contactsBlock {
+	margin-left: 12px;
+}
+
+.contactsList {
+	padding-left: 18px;
+}
+
+.contacts h2 {
+	margin-top: 10px;
+}
+
